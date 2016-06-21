@@ -1,7 +1,7 @@
 # Emotinal_classifier
 **Using the sift features and SVM classifier on images**. 
 
-Hi People,
+Hi,
 
 This repo. is for Classifying images based on SIFT features to extract SIFT feature vectors for an image and implemented a SVM using bag of words model  to 'vector quantize' the SIFT features and build histograms that give fixed size vectors, that can be used to train and test the SVM.
 
