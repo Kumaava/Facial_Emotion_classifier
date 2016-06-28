@@ -1,3 +1,6 @@
+# http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_objdetect/py_face_detection/py_face_detection.html#face-detection
+# Face Detection using Haar Cascades
+
 import numpy as np
 import cv2
 
