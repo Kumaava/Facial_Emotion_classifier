@@ -17,5 +17,3 @@ For those who are more comfortable learning through video, check out https://www
 Now with the idea to get more distinct and compact descriptors (Dimensionality Reduction), we perform a Principal Component Analysis (PCA) on the SIFT descriptors.To get more information on PCA, check out https://en.wikipedia.org/wiki/Principal_component_analysis
 
 Bag of Visual Vectors approach is now applied using kMeans clustering to build the image representation and each image is now a histogram of these clusters
-
-<img width="1280" alt="eye and face detector" src="https://user-images.githubusercontent.com/11708565/27013142-e4dacd8a-4efb-11e7-9fee-de6c2ed38ecd.png">
